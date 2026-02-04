@@ -1,0 +1,35 @@
+﻿  AnimationManager.cpp
+C:\Users\bugra\Desktop\PDU Version Game Engines\Game Engines Bugra Berat Kok Engine Core\Internal\AnimationManager.cpp(95,76): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  BackgroundManager.cpp
+  BaseObject.cpp
+C:\Users\bugra\Desktop\PDU Version Game Engines\Game Engines Bugra Berat Kok Engine Core\Internal\AnimationManager.h(9,8): warning C4099: 'Animation': type name first seen using 'class' now seen using 'struct'
+  (compiling source file '../../../Internal/BaseObject.cpp')
+      C:\Users\bugra\Desktop\PDU Version Game Engines\Game Engines Bugra Berat Kok Engine Core\Internal\AnimationManager.h(9,8):
+      see declaration of 'Animation'
+  
+  Button.cpp
+  Character.cpp
+C:\Users\bugra\Desktop\PDU Version Game Engines\Game Engines Bugra Berat Kok Engine Core\Internal\AnimationManager.h(9,8): warning C4099: 'Animation': type name first seen using 'class' now seen using 'struct'
+  (compiling source file '../../../Internal/Character.cpp')
+      C:\Users\bugra\Desktop\PDU Version Game Engines\Game Engines Bugra Berat Kok Engine Core\Internal\AnimationManager.h(9,8):
+      see declaration of 'Animation'
+  
+  EngineApp.cpp
+  GameManager.cpp
+  InputManager.cpp
+  ObjectManager.cpp
+  PhysicsManager.cpp
+  SceneManager.cpp
+  SoundManager.cpp
+  SpriteManager.cpp
+  StaticObject.cpp
+C:\Users\bugra\Desktop\PDU Version Game Engines\Game Engines Bugra Berat Kok Engine Core\Internal\AnimationManager.h(9,8): warning C4099: 'Animation': type name first seen using 'class' now seen using 'struct'
+  (compiling source file '../../../Internal/StaticObject.cpp')
+      C:\Users\bugra\Desktop\PDU Version Game Engines\Game Engines Bugra Berat Kok Engine Core\Internal\AnimationManager.h(9,8):
+      see declaration of 'Animation'
+  
+  TextManager.cpp
+  Tilemap.cpp
+  TimeManager.cpp
+  UIManager.cpp
+  GameEngine.vcxproj -> C:\Users\bugra\Desktop\PDU Version Game Engines\Game Engines Bugra Berat Kok Engine Core\Project for Game Engines\Games\x64\Release\GameEngine.lib
