@@ -109,6 +109,4 @@ Pre-built executables can be downloaded from the **Releases** tab.
 ## Author
 
 **Buğra Berat Kök**  
-Software Engineering Student  
-
-GitHub: https://github.com/bugraberatkok
+Software Engineering Student
