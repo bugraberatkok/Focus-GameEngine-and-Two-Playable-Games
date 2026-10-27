@@ -1,0 +1,14 @@
+# Visual Studio cache and per-user settings
+.vs/
+*.user
+
+# Intermediate build output (the playable Release build is kept on purpose)
+**/x64/Debug/
+Project for Game Engines/Games/*/x64/
+*.obj
+*.iobj
+*.ipdb
+*.ilk
+*.idb
+*.tlog
+*.ipch

@@ -2,7 +2,7 @@
 
 A custom-built 2D game engine developed from scratch in C++ using SDL libraries, featuring two fully playable games built entirely on top of the engine architecture.
 
-All playable builds are available in the **Releases** section of this repository.
+Pre-built Windows executables of both games are in [`Project for Game Engines/Games/x64/Release`](Project%20for%20Game%20Engines/Games/x64/Release).
 
 ---
 
@@ -69,7 +69,7 @@ Two distinct games are implemented using the same engine:
 - **Game 1** – Cat Chase - It is a game where the player is a cat and trying to catch randomly generated rats while trying to escape from dogs continously. Use WASD for movement and SPACE to catch the rat.
 - **Game 2** – Apple Catch - It is a game where the player is a colorful racoon that is changing color every 10 seconds. The aim is eating the apples that is matching the color of the racoon and gather score. Use WASD for movement.
 
-Pre-built executables can be downloaded from the **Releases** tab.
+To play, run `CatChase.exe` or `AppleCatch.exe` from [`Project for Game Engines/Games/x64/Release`](Project%20for%20Game%20Engines/Games/x64/Release).
 
 ---
 
@@ -79,8 +79,7 @@ Pre-built executables can be downloaded from the **Releases** tab.
 - Object-Oriented Programming (OOP)
 - Custom Game Loop
 - Modular System Design
-- SDL
-- OpenGL
+- SDL2 (SDL_image, SDL_mixer, SDL_ttf)
 - Collision & Physics Handling
 - Scene-Based Architecture
 
